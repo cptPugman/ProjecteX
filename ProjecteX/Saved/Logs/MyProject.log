@@ -1119,3 +1119,653 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.04-11.09.18:219][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
 [2020.03.04-11.09.18:276][540]LogPlayLevel: Display: Destroying online subsystem :Context_15
 [2020.03.04-11.09.19:525][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.15.39:732][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.03.04-11.15.39:994][748]LogSavePackage: Moving '../../../../../../Users/gabri/OneDrive/Documentos/GitHub/ProjecteX/ProjecteX/Saved/ThirdPersonExampleMap_Auto22E84E0A44B9E0F8F11589CB7C061B165.tmp' to '../../../../../../Users/gabri/OneDrive/Documentos/GitHub/ProjecteX/ProjecteX/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2020.03.04-11.15.39:999][748]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.316
+[2020.03.04-11.15.39:999][748]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.316
+[2020.03.04-11.15.40:001][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Grass/grass] ([1] browsable assets)...
+[2020.03.04-11.15.40:040][748]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Grass/grass.grass]
+[2020.03.04-11.15.40:040][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/Grass/grass]
+[2020.03.04-11.15.40:114][748]LogSavePackage: Moving '../../../../../../Users/gabri/OneDrive/Documentos/GitHub/ProjecteX/ProjecteX/Saved/grass_Auto2B5A13D99415F69ED54097B8736BA1F88.tmp' to '../../../../../../Users/gabri/OneDrive/Documentos/GitHub/ProjecteX/ProjecteX/Saved/Autosaves/Game/Grass/grass_Auto2.uasset'
+[2020.03.04-11.15.40:115][748]LogFileHelpers: Auto-saving content packages took 0.114
+[2020.03.04-11.28.42:017][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_base_model_16)
+[2020.03.04-11.28.48:290][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.29.01:364][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.29.21:436][798]Cmd: TRANSACTION UNDO
+[2020.03.04-11.29.21:436][798]LogEditorTransaction: Undo Pinchar en los actores
+[2020.03.04-11.29.23:148][899]Cmd: TRANSACTION UNDO
+[2020.03.04-11.29.23:148][899]LogEditorTransaction: Undo Scale Actors
+[2020.03.04-11.29.23:717][933]Cmd: TRANSACTION UNDO
+[2020.03.04-11.29.23:717][933]LogEditorTransaction: Undo Scale Actors
+[2020.03.04-11.29.58:924][682]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.03.04-11.29.59:203][682]LogSavePackage: Moving '../../../../../../Users/gabri/OneDrive/Documentos/GitHub/ProjecteX/ProjecteX/Saved/ThirdPersonExampleMap_Auto3EFE550B04CB1195F76596AA46D8B70B9.tmp' to '../../../../../../Users/gabri/OneDrive/Documentos/GitHub/ProjecteX/ProjecteX/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2020.03.04-11.29.59:205][682]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.313
+[2020.03.04-11.29.59:205][682]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.313
+[2020.03.04-11.29.59:208][682]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Effects/CelShading/Tutorial/Content/ToonOutline/Materials/PostProcess/PP_Outline_Inst] ([1] browsable assets)...
+[2020.03.04-11.29.59:208][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/Effects/CelShading/Tutorial/Content/ToonOutline/Materials/PostProcess/PP_Outline_Inst]
+[2020.03.04-11.29.59:235][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.03.04-11.29.59:236][682]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.03.04-11.29.59:260][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.03.04-11.29.59:275][682]LogSavePackage: Moving '../../../../../../Users/gabri/OneDrive/Documentos/GitHub/ProjecteX/ProjecteX/Saved/PP_Outline_Inst_Auto3DA0FEDDD40135673745327B146F62DB7.tmp' to '../../../../../../Users/gabri/OneDrive/Documentos/GitHub/ProjecteX/ProjecteX/Saved/Autosaves/Game/Effects/CelShading/Tutorial/Content/ToonOutline/Materials/PostProcess/PP_Outline_Inst_Auto3.uasset'
+[2020.03.04-11.29.59:276][682]LogFileHelpers: Auto-saving content packages took 0.069
+[2020.03.04-11.32.59:045][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.34.05:428][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.34.16:458][561]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.03.04-11.36.40:983][162]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2020.03.04-11.36.41:172][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.03.04-11.36.41:645][176]LogSavePackage: Moving '../../../../../../Users/gabri/OneDrive/Documentos/GitHub/ProjecteX/ProjecteX/Saved/ThirdPersonCharacterF02B71C14ADEC7113437BAA0251F9A1B.tmp' to '../../../../../../Users/gabri/OneDrive/Documentos/GitHub/ProjecteX/ProjecteX/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.03.04-11.36.43:890][265]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.04-11.36.43:905][265]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.36.43:905][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-11.36.43:905][265]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4/3/2020 13:36:43)
+[2020.03.04-11.36.43:905][265]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.04-11.36.44:023][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.118746s)
+[2020.03.04-11.36.44:025][265]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.04-11.36.44:025][265]LogPlayLevel: PIE: World Init took: (0.001404s)
+[2020.03.04-11.36.44:025][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.120501s)
+[2020.03.04-11.36.44:053][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.03.04-11.36.44:056][265]LogInit: XAudio2 using 'Altavoces (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.04-11.36.44:061][265]LogInit: FAudioDevice initialized.
+[2020.03.04-11.36.44:069][265]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.04-11.36.44:072][265]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.04-12.36.44
+[2020.03.04-11.36.44:073][265]LogWorld: Bringing up level for play took: 0.002904
+[2020.03.04-11.36.44:073][265]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.03.04-11.36.44:074][265]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,089
+[2020.03.04-11.36.44:075][265]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.37.07:101][551]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.37.07:102][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-11.37.07:102][551]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.04-11.37.07:102][551]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-11.37.07:126][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-11.37.07:127][551]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.37.07:160][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-11.37.07:166][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.03.04-11.37.07:215][553]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.03.04-11.37.08:332][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_base_model_101)
+[2020.03.04-11.37.13:824][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.37.35:736][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.03.04-11.37.36:047][202]LogSavePackage: Moving '../../../../../../Users/gabri/OneDrive/Documentos/GitHub/ProjecteX/ProjecteX/Saved/ThirdPersonExampleMap4D7A529042762295A004EDA8009B0769.tmp' to '../../../../../../Users/gabri/OneDrive/Documentos/GitHub/ProjecteX/ProjecteX/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.03.04-11.37.36:223][202]LogSavePackage: Moving '../../../../../../Users/gabri/OneDrive/Documentos/GitHub/ProjecteX/ProjecteX/Saved/ThirdPersonExampleMap_BuiltData69FA2FD042C8A1B443A1C4828851CC72.tmp' to '../../../../../../Users/gabri/OneDrive/Documentos/GitHub/ProjecteX/ProjecteX/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.03.04-11.37.36:796][234]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.04-11.37.36:811][234]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.37.36:812][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-11.37.36:812][234]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4/3/2020 13:37:36)
+[2020.03.04-11.37.36:812][234]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.04-11.37.36:930][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.118738s)
+[2020.03.04-11.37.36:931][234]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.04-11.37.36:931][234]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2020.03.04-11.37.36:931][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.119889s)
+[2020.03.04-11.37.36:963][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.03.04-11.37.36:966][234]LogInit: XAudio2 using 'Altavoces (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.04-11.37.36:970][234]LogInit: FAudioDevice initialized.
+[2020.03.04-11.37.36:981][234]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.04-11.37.36:984][234]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.04-12.37.36
+[2020.03.04-11.37.36:984][234]LogWorld: Bringing up level for play took: 0.002934
+[2020.03.04-11.37.36:984][234]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.03.04-11.37.36:986][234]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,001
+[2020.03.04-11.37.36:986][234]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.37.49:056][933]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.37.49:056][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-11.37.49:056][933]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.04-11.37.49:057][933]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-11.37.49:079][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-11.37.49:079][933]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.37.49:112][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-11.37.49:117][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.03.04-11.37.49:161][935]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.03.04-11.37.51:079][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.37.59:674][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.40.06:533][452]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2020.03.04-11.40.06:722][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.03.04-11.40.08:718][554]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.04-11.40.08:733][554]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.40.08:733][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-11.40.08:734][554]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4/3/2020 13:40:08)
+[2020.03.04-11.40.08:734][554]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.04-11.40.08:855][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121161s)
+[2020.03.04-11.40.08:856][554]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.04-11.40.08:856][554]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2020.03.04-11.40.08:856][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.122261s)
+[2020.03.04-11.40.08:910][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.03.04-11.40.08:926][554]LogInit: XAudio2 using 'Altavoces (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.04-11.40.08:931][554]LogInit: FAudioDevice initialized.
+[2020.03.04-11.40.08:939][554]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.04-11.40.08:942][554]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.04-12.40.08
+[2020.03.04-11.40.08:942][554]LogWorld: Bringing up level for play took: 0.002882
+[2020.03.04-11.40.08:943][554]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.03.04-11.40.08:944][554]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,958
+[2020.03.04-11.40.08:944][554]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.40.18:573][117]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.40.18:587][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-11.40.18:587][117]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.04-11.40.18:587][117]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-11.40.18:603][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-11.40.18:604][117]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.40.18:635][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-11.40.18:640][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.03.04-11.40.18:682][119]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.03.04-11.40.19:755][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.40.45:725][576]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.03.04-11.40.46:780][636]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-11.40.47:790][693]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.04-11.40.47:805][693]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.40.47:805][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-11.40.47:805][693]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4/3/2020 13:40:47)
+[2020.03.04-11.40.47:805][693]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.04-11.40.47:930][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124798s)
+[2020.03.04-11.40.47:931][693]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.04-11.40.47:931][693]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2020.03.04-11.40.47:932][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.125945s)
+[2020.03.04-11.40.47:962][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.03.04-11.40.47:965][693]LogInit: XAudio2 using 'Altavoces (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.04-11.40.47:970][693]LogInit: FAudioDevice initialized.
+[2020.03.04-11.40.47:970][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-11.40.47:991][693]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.04-11.40.47:995][693]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.04-12.40.47
+[2020.03.04-11.40.47:995][693]LogWorld: Bringing up level for play took: 0.003075
+[2020.03.04-11.40.47:995][693]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.03.04-11.40.47:997][693]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,011
+[2020.03.04-11.40.47:997][693]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.41.00:476][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-11.41.20:404][513]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.41.20:404][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-11.41.20:404][513]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.04-11.41.20:405][513]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-11.41.20:458][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-11.41.20:458][513]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.41.20:496][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-11.41.20:502][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.03.04-11.41.20:548][514]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.03.04-11.41.28:188][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.41.28:961][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_base_model_14)
+[2020.03.04-11.41.35:351][250]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-11.41.39:981][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.41.40:053][496]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.04-11.41.40:069][496]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.41.40:069][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-11.41.40:069][496]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4/3/2020 13:41:40)
+[2020.03.04-11.41.40:069][496]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.04-11.41.40:191][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.120943s)
+[2020.03.04-11.41.40:192][496]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.04-11.41.40:192][496]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2020.03.04-11.41.40:192][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.122085s)
+[2020.03.04-11.41.40:220][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.03.04-11.41.40:234][496]LogInit: XAudio2 using 'Altavoces (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.04-11.41.40:239][496]LogInit: FAudioDevice initialized.
+[2020.03.04-11.41.40:244][496]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.04-11.41.40:248][496]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.04-12.41.40
+[2020.03.04-11.41.40:250][496]LogWorld: Bringing up level for play took: 0.005575
+[2020.03.04-11.41.40:250][496]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.03.04-11.41.40:252][496]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,266
+[2020.03.04-11.41.40:252][496]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.41.45:197][785]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:259][788]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:338][792]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:376][794]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:431][797]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:431][797]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:431][797]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:489][800]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:489][800]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:562][804]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:562][804]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:581][805]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:600][806]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:638][808]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:639][808]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:656][809]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:711][812]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:748][814]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:801][817]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:817][818]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:817][818]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.45:887][822]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.47:311][906]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.47:328][907]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.47:328][907]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.47:345][908]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.47:429][913]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.47:545][920]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.47:653][926]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.48:658][982]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.48:768][988]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.48:787][989]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.48:844][992]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.48:920][996]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.48:938][997]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.48:993][  0]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.49:012][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.49:012][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.49:068][  4]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.49:104][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.49:104][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.49:125][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.49:160][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.49:178][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.49:197][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.49:197][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.49:254][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.49:271][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.50:590][ 89]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.50:694][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.50:747][ 98]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.50:783][100]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.50:837][103]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.50:871][105]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.50:906][107]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.50:957][110]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.50:974][111]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.50:974][111]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.50:991][112]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:008][113]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:025][114]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:041][115]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:058][116]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:124][120]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:124][120]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:158][122]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:175][123]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:192][124]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:192][124]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:608][149]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:624][150]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:741][157]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:774][159]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:791][160]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:857][164]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:874][165]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:907][167]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:924][168]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:995][172]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.51:995][172]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:016][173]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:078][176]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:096][177]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:116][178]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:155][180]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:174][181]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:174][181]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:174][181]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:207][183]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:207][183]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:241][185]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:241][185]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:292][188]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:292][188]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:328][190]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:345][191]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:362][192]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:378][193]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:429][196]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:479][199]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.52:512][201]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:110][295]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:133][296]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:133][296]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:217][300]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:239][301]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:239][301]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:263][302]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:263][302]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:309][304]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:393][307]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:394][307]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:394][307]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:394][307]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:492][310]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:514][311]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:573][314]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:573][314]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:592][315]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:612][316]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:650][318]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:669][319]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:706][321]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:723][322]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:777][325]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:777][325]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:795][326]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.54:883][331]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:003][338]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:271][354]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:271][354]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:305][356]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:338][358]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:355][359]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:406][362]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:473][366]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:473][366]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:490][367]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:525][369]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:580][372]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:597][373]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:597][373]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:667][377]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:684][378]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:770][383]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:770][383]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:788][384]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:821][386]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:821][386]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:871][389]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:940][393]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.55:961][394]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.56:013][397]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.56:013][397]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.56:046][399]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.56:062][400]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.56:062][400]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.56:129][404]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.56:162][406]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.56:162][406]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.56:245][411]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.56:262][412]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.56:296][414]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.56:329][416]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.56:362][418]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.56:379][419]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.56:428][422]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.56:428][422]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.56:495][426]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.58:614][552]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.58:614][552]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.58:697][556]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.58:756][559]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.58:777][560]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.58:834][563]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.58:873][565]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.58:911][567]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.58:930][568]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.58:930][568]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.58:930][568]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.58:948][569]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:042][574]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:042][574]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:061][575]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:061][575]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:079][576]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:133][579]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:150][580]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:150][580]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:219][584]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:219][584]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:253][586]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:308][589]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:308][589]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:326][590]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:326][590]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:361][592]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:379][593]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:379][593]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:379][593]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:464][598]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:480][599]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:497][600]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:515][601]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:515][601]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:548][603]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:548][603]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:564][604]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:614][607]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:664][610]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:680][611]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:714][613]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:714][613]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:730][614]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:797][618]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:797][618]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:848][621]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:864][622]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:881][623]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.41.59:931][626]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.00:987][685]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:006][686]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:026][687]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:045][688]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:064][689]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:121][692]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:140][693]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:141][693]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:141][693]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:179][695]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:198][696]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:216][697]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:271][700]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:271][700]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:310][702]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:365][705]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:383][706]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:383][706]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:475][711]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:475][711]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:530][714]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:530][714]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:565][716]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:583][717]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:617][719]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:634][720]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:700][724]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:717][725]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:734][726]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:834][732]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:850][733]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:900][736]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:967][740]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:967][740]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:967][740]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.01:967][740]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.02:100][748]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.02:200][754]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.02:200][754]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.02:200][754]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.02:300][760]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.04:377][876]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.04:440][879]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.04:540][884]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.04:540][884]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.04:560][885]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.04:617][888]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.04:691][892]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.04:728][894]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.04:810][898]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.04:810][898]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.04:810][898]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.04:832][899]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.04:852][900]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.04:892][902]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.04:931][904]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.04:951][905]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:008][908]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:028][909]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:028][909]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:066][911]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:084][912]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:103][913]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:155][916]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:155][916]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:172][917]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:224][920]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:310][925]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:327][926]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:343][927]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:460][934]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:460][934]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:460][934]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:477][935]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:527][938]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:544][939]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:560][940]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:560][940]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:576][941]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:626][944]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:626][944]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:643][945]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.05:660][946]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.06:999][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:018][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:018][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:056][ 25]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:076][ 26]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:114][ 28]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:133][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:133][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:152][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:171][ 31]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:190][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:225][ 34]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:279][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:279][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:315][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:351][ 41]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:396][ 43]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:396][ 43]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:492][ 48]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:511][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:511][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:589][ 53]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:643][ 56]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:643][ 56]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:661][ 57]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:661][ 57]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:711][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:745][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:812][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:895][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:911][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:911][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.07:962][ 75]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.08:012][ 78]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.08:079][ 82]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.08:145][ 86]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.08:145][ 86]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.08:161][ 87]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.08:195][ 89]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.08:295][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.08:295][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.08:545][110]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.08:562][111]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.04-11.42.09:679][178]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.42.09:692][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-11.42.09:692][178]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.04-11.42.09:692][178]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-11.42.09:710][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-11.42.09:710][178]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.42.09:743][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-11.42.09:749][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.03.04-11.42.09:793][180]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.03.04-11.42.11:914][283]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.03.04-11.42.58:786][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.43.18:287][553]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2020.03.04-11.43.18:469][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.03.04-11.43.20:873][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.04-11.43.20:940][655]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.04-11.43.20:955][655]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.43.20:955][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-11.43.20:955][655]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4/3/2020 13:43:20)
+[2020.03.04-11.43.20:955][655]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.04-11.43.21:087][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.132047s)
+[2020.03.04-11.43.21:088][655]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.04-11.43.21:088][655]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2020.03.04-11.43.21:088][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.133219s)
+[2020.03.04-11.43.21:115][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.03.04-11.43.21:131][655]LogInit: XAudio2 using 'Altavoces (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.04-11.43.21:136][655]LogInit: FAudioDevice initialized.
+[2020.03.04-11.43.21:146][655]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.04-11.43.21:151][655]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.04-12.43.21
+[2020.03.04-11.43.21:153][655]LogWorld: Bringing up level for play took: 0.005724
+[2020.03.04-11.43.21:153][655]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.03.04-11.43.21:154][655]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,169
+[2020.03.04-11.43.21:154][655]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.43.27:749][ 41]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0000
+[2020.03.04-11.43.27:749][ 41]PIE: Error: Infinite loop detected. Blueprint:  ThirdPersonCharacter Function:  Evento ActorEndOverlap Call Stack:  Show
+[2020.03.04-11.43.27:751][ 41]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.43.27:765][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-11.43.27:765][ 41]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.04-11.43.27:766][ 41]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-11.43.27:803][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-11.43.27:803][ 41]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.43.27:836][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-11.43.27:842][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.03.04-11.43.27:849][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.03.04-11.43.27:871][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.03.04-11.43.33:935][318]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.03.04-11.43.33:959][318]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.03.04-11.43.35:339][362]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.03.04-11.44.03:146][540]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.04-11.44.30:935][848]Cmd: STAT FPS
+[2020.03.04-11.44.33:548][980]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.04-11.44.33:563][980]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.44.33:563][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-11.44.33:563][980]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4/3/2020 13:44:33)
+[2020.03.04-11.44.33:563][980]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.04-11.44.33:685][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.120979s)
+[2020.03.04-11.44.33:686][980]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.04-11.44.33:686][980]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2020.03.04-11.44.33:686][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.121954s)
+[2020.03.04-11.44.33:715][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.03.04-11.44.33:717][980]LogInit: XAudio2 using 'Altavoces (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.04-11.44.33:721][980]LogInit: FAudioDevice initialized.
+[2020.03.04-11.44.33:725][980]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.04-11.44.33:730][980]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.04-12.44.33
+[2020.03.04-11.44.33:731][980]LogWorld: Bringing up level for play took: 0.005749
+[2020.03.04-11.44.33:731][980]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.03.04-11.44.33:733][980]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,252
+[2020.03.04-11.44.33:733][980]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.44.39:373][311]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0000
+[2020.03.04-11.44.39:374][311]PIE: Error: Infinite loop detected. Blueprint:  ThirdPersonCharacter Function:  Evento ActorEndOverlap Call Stack:  Show
+[2020.03.04-11.44.39:376][311]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.44.39:376][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-11.44.39:376][311]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.04-11.44.39:376][311]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-11.44.39:425][311]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-11.44.39:426][311]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.44.39:455][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-11.44.39:462][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.03.04-11.44.39:468][311]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.03.04-11.44.39:493][312]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.03.04-11.46.44:656][276]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2020.03.04-11.46.44:846][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.03.04-11.46.49:802][420]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.03.04-11.46.49:825][420]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.03.04-11.46.51:015][478]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.04-11.46.51:031][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.46.51:032][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-11.46.51:032][478]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4/3/2020 13:46:51)
+[2020.03.04-11.46.51:032][478]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.04-11.46.51:151][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.118498s)
+[2020.03.04-11.46.51:151][478]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.04-11.46.51:151][478]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2020.03.04-11.46.51:152][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.119567s)
+[2020.03.04-11.46.51:181][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.03.04-11.46.51:183][478]LogInit: XAudio2 using 'Altavoces (2- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.04-11.46.51:187][478]LogInit: FAudioDevice initialized.
+[2020.03.04-11.46.51:191][478]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.04-11.46.51:196][478]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.04-12.46.51
+[2020.03.04-11.46.51:198][478]LogWorld: Bringing up level for play took: 0.005541
+[2020.03.04-11.46.51:198][478]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.03.04-11.46.51:199][478]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,786
+[2020.03.04-11.46.51:199][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.47.35:808][ 52]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.47.35:809][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-11.47.35:809][ 52]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.04-11.47.35:809][ 52]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-11.47.35:839][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-11.47.35:840][ 52]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.04-11.47.35:876][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-11.47.35:881][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.03.04-11.47.35:934][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.03.04-11.48.07:053][921]Cmd: SELECT NONE
+[2020.03.04-11.48.09:216][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.03.04-11.49.57:774][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.03.04-11.49.58:151][656]LogSavePackage: Moving '../../../../../../Users/gabri/OneDrive/Documentos/GitHub/ProjecteX/ProjecteX/Saved/ThirdPersonExampleMap_Auto4639A582A4442C2C6C9DE9AAA496102F9.tmp' to '../../../../../../Users/gabri/OneDrive/Documentos/GitHub/ProjecteX/ProjecteX/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2020.03.04-11.49.58:157][656]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.422
+[2020.03.04-11.49.58:157][656]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.422
+[2020.03.04-11.49.58:159][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.03.04-11.49.58:183][656]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.03.04-11.49.58:183][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.03.04-11.49.58:230][656]LogSavePackage: Moving '../../../../../../Users/gabri/OneDrive/Documentos/GitHub/ProjecteX/ProjecteX/Saved/ThirdPersonCharacter_Auto45A1F0EAC4B300BCEED379A9A68DB7A39.tmp' to '../../../../../../Users/gabri/OneDrive/Documentos/GitHub/ProjecteX/ProjecteX/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2020.03.04-11.49.58:230][656]LogFileHelpers: Auto-saving content packages took 0.072
